@@ -1,12 +1,25 @@
-<<<<<<< HEAD
-# react_sandbox
-=======
-# React + Vite
+# React Sandbox
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **React Sandbox** repository! This is a personal playground where I experiment with different React concepts, libraries, and tools. It's a space to practice, learn, and break things in a safe environment.
 
-Currently, two official plugins are available:
+## Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> e12d790 (Created : React project using vite)
+This repository is intended for:
+
+- **Learning**: Experimenting with React features (hooks, context, routing, etc.).
+- **Testing**: Trying out different React libraries, testing strategies, and best practices.
+- **Prototyping**: Quickly building small React apps or components to understand new concepts.
+- **Sandboxing**: A place to play around without the pressure of building a full project.
+
+## What’s Inside?
+
+In this sandbox, I explore various React topics and tools, such as:
+
+- React Hooks (useState, useEffect, custom hooks, etc.)
+- Component design patterns (functional components, higher-order components, etc.)
+- React Router for routing
+- State management (Context API, Redux, Recoil, etc.)
+- Testing with **Jest** and **React Testing Library**
+- Styling with **CSS Modules**, **Styled Components**, or any other method
+- Integration with external APIs, third-party libraries, and frameworks
+- Exploring new features in React (Suspense, Server Components, etc.)
